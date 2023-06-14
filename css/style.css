@@ -379,14 +379,14 @@ button {
   gap: 1rem;
 }
 
-.newsletter-section .img-mailbox {
+.newsletter-section .img-newsletter {
   display: block;
   width: max-content;
   width: 200px;
   margin: 0 auto;
 }
 
-.newsletter-section .mailbox-container {
+.newsletter-section .newsletter-img-container {
   display: flex;
   align-items: end;
   justify-content: end;
